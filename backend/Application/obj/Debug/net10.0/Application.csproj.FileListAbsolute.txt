@@ -1,0 +1,16 @@
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/bin/Debug/net10.0/Application.deps.json
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/bin/Debug/net10.0/Application.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/bin/Debug/net10.0/Application.pdb
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/bin/Debug/net10.0/Domain.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/bin/Debug/net10.0/Domain.pdb
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.csproj.AssemblyReference.cache
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.AssemblyInfoInputs.cache
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.AssemblyInfo.cs
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.csproj.CoreCompileInputs.cache
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.sourcelink.json
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Applicat.44B5EDA2.Up2Date
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/refint/Application.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/Application.pdb
+/Users/kimozz/Desktop/Projects/OGTech/backend/Application/obj/Debug/net10.0/ref/Application.dll

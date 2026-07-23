@@ -1,0 +1,12 @@
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/bin/Debug/net9.0/Domain.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/kimozz/Desktop/Projects/OGTech/backend/Domain/obj/Debug/net9.0/ref/Domain.dll
